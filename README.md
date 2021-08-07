@@ -3,7 +3,7 @@
 
 
 ### :bust_in_silhouette: About
-The Developer Making smiles on unknown faces usin the Code....
+Never get so attracted that you accept being disrespected, used, lied to, or cheated on...
 <hr>
 
 
@@ -19,15 +19,6 @@ The Developer Making smiles on unknown faces usin the Code....
 
 <hr>
     
-### My Projects 
-    
-<a href="https://top.gg/bot/846660939570872350">
-  <img src="https://top.gg/api/widget/846660939570872350.svg" alt="The Minister" />
-  </a>
-    
-<a href="https://top.gg/bot/870226869700673556">
-  <img src="https://top.gg/api/widget/870226869700673556.svg" alt="Dyno Beast" />
-  </a>
     
     
     
@@ -37,9 +28,9 @@ The Developer Making smiles on unknown faces usin the Code....
 
 <hr>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-OP&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=XANDY-OP&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-OP&layout=compact&langs_count=8&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XANDY-OP&layout=compact&langs_count=8&theme=dark">
     <br>
     
 </div>
